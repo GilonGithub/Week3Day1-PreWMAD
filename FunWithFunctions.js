@@ -14,9 +14,9 @@
 // Function one: should have two parameters, meaning it will take two arguments. 
 // Should add two numbers, and console.log the result.
 
-const addTwoNumbers = function() {
+const addTwoNumbers = function(x, y) {
 
-  //Your code goes here
+  console.log(x + y);
 
 }
 
